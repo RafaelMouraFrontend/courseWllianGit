@@ -1,4 +1,4 @@
-#Lista de comnandos Git
+# Lista de comnandos Git
 
 Este é o arquivo com comandos, do curso básico de git e gitgub do Willian Justen
 
