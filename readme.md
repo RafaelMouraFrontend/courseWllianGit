@@ -1,3 +1,28 @@
-Este é um teste de respitório para o curso de git e github
+Este é o arquivo com comandos, do curso básico de git e gitgub do Willian Justen
 
-Saiba Mais em www.rafaemoura.design
+São apenas anotações como forma de lembrete
+
+
+git init
+
+git status
+
+git log
+
+git diff
+
+git add (nome do arquivo)
+
+git checkout --- pra voltar o arquivo quando ele ainda não está em staged
+
+git reset
+
+git commit -m 'mensagem que fala sobre o commit'
+
+
+
+Depois de criar o repositório no github
+
+git remote add origin https://github.com/RafaelMouraFrontend/courseWllianGit.git
+
+git push -u origin master ----> primeiro envio
