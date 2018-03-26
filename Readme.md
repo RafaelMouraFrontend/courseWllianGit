@@ -1,6 +1,6 @@
 # Lista de comnandos Git
 
-Este é o arquivo com comandos, do curso básico de git e gitgub do Willian Justen
+Este é o arquivo com comandos, do curso básico de git e github do Willian Justen
 
 **São apenas anotações como forma de lembrete:**
 
